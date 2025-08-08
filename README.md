@@ -11,7 +11,7 @@ This is a responsive sidebar navigation layout built with HTML, CSS, and JavaScr
 
 ## 📺 Live Demo
 
-[Click here to view live](https://yourusername.github.io/responsive-sidebar-layout/)
+[Click here to view live](https://hafiz-hamza-ikram.github.io/Responsive-Collapsible-Sidebar/)
 
 ## 📂 Project Structure
 
